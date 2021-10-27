@@ -28,6 +28,8 @@ See tutorial from
  - AzureKinect-BodyTracking tutorial  
 https://channel9.msdn.com/Shows/Mixed-Reality/Azure-Kinect-Body-Tracking-Unity-Integration  
  - AzureKinectで"sample_unity_bodytracking"を動かすまでのお話  
-https://qiita.com/Tuyoshi/items/343ce116d11e0cc9b797
+https://qiita.com/Tuyoshi/items/343ce116d11e0cc9b797  
+ - 【AzureKinect】【Unity】RGBカメラと深度センサの情報を画像として表示する  
+https://a-hancho.hateblo.jp/entry/azurekinect_image  
   
   
