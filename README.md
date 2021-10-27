@@ -9,8 +9,10 @@ https://developer.nvidia.com/cuda-gpus
   
 ## Import libraries  
 See tutorial from  
+ - repo `git clone https://github.com/microsoft/Azure-kinect-samples.git`
  - https://github.com/microsoft/Azure-Kinect-Samples/tree/master/body-tracking-samples/sample_unity_bodytracking  
  - https://channel9.msdn.com/Shows/Mixed-Reality/Azure-Kinect-Body-Tracking-Unity-Integration
+ - NuGet Package `Install-Package Microsoft.Azure.Kinect.BodyTracking -version 1.0.1`  
   
 ## Modify SkeletalTrackingProvider.cs  
 1. Open SkeletalTrackingProvider.cs
